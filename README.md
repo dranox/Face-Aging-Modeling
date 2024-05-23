@@ -5,14 +5,6 @@
   <h1 align="center">Face Aging Model Using StarGAN</h1>
 </div>
 
-## Group Information
-Group 1 - 21KHMT
-- 21127007 - Nguyễn Quốc Anh
-- 21127099 - Nguyễn Tấn Lộc
-- 21127403 - Nguyễn Minh Quân
-- 21127462 - Mạc Tuấn Trung 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
