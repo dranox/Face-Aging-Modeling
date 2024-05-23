@@ -1,13 +1,13 @@
-# Face-Aging-Modeling
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h1 align="center">Face Aging Model Using StarGAN</h1>
 </div>
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 
 StarGAN emerges as a groundbreaking solution, addressing the shortcomings of previous methods. This deep learning model excels at image-to-image translation tasks. Unlike traditional approaches that necessitate a separate model for each aging transformation, StarGAN utilizes a single unified model.  By leveraging conditional GANs, StarGAN can generate realistic aged faces based on specific age labels. This versatility allows for diverse image translations without the need for domain-specific models.
 
@@ -49,6 +49,13 @@ python.exe Main.py --chan_dim 4 --image_size 128 --num_steps 100000 --n_critic 5
 example:
 ```bash 
 python.exe Main.py --mode test --test_img_path test_img/man.jpg test_img/girl.jpg test_img/middleage.jpg test_img/woman.jpg --result_dir test_img/result --G_path model/G --D_path model/D
+```
+
+
+### Running on GUI
+example:
+```bash 
+python.exe GUI.py
 ```
 
 <!-- CONTACT -->
