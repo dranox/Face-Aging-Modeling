@@ -21,7 +21,7 @@ StarGAN emerges as a groundbreaking solution, addressing the shortcomings of pre
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/trungmac07/Face_Aging.git
+   git clone https://github.com/dranox/Face-Aging-Modeling.git
    ```
 2. Install related packages
     ```sh
