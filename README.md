@@ -63,9 +63,8 @@ python.exe Main.py --mode test --test_img_path test_img/man.jpg test_img/girl.jp
 ## Contact
 
 Email:
+- tanlocnguyen1902@gmail.com
 - mttrung16@gmail.com
 - quannguyen2153@gmail.com
-
-Project Link: [https://github.com/trungmac07/Face_Aging](https://github.com/trungmac07/Face_Aging)
 
 
